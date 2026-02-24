@@ -1,0 +1,28 @@
+{
+    // Essentials
+    "chat.disableAIFeatures": true,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 3,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+
+    // Themes
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Vesper",
+
+    // Icon Config
+    "symbols.files.associations": {
+        "Justfile": "gear"
+    },
+
+    // Optional
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+
+    // Miscellaneous 
+    "window.commandCenter": true,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.tree.indent": 16,
+    "workbench.tree.renderIndentGuides": "none",
+}
