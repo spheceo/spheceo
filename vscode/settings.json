@@ -2,7 +2,7 @@
     // Essentials
     "chat.disableAIFeatures": true,
     "files.autoSave": "afterDelay",
-    "window.zoomLevel": 3,
+    "window.zoomLevel": 2.5,
     "editor.minimap.enabled": false,
     "workbench.startupEditor": "none",
 
