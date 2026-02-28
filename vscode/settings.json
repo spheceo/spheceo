@@ -35,4 +35,9 @@
         "https://openapi.vercel.sh": true
     },
     "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.initialHint": false,
+    "redhat.telemetry.enabled": false,
 }
